@@ -17,3 +17,22 @@
      margin-top: 20px;
      margin-bottom: 20px;
 } 
+@media screen and (max-width: 1200px) {
+    .question_class {
+        background-color: blue;
+        margin: auto;
+    }
+    .userAnswer {
+        background-color: yellow;
+        margin: auto;
+    }
+    .correcrAnswer {
+        background-color: rgb(62, 235, 62);
+        margin: auto;
+    }
+    .question_class,.userAnswer, .correcrAnswer {
+         margin-top: 20px;
+         width: 100%;
+         margin-bottom: 20px;
+    } 
+}
