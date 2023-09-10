@@ -1,0 +1,19 @@
+.question_class {
+    background-color: blue;
+    width: 50%;
+    margin: auto;
+}
+.userAnswer {
+    background-color: yellow;
+    width: 20%;
+    margin: auto;
+}
+.correcrAnswer {
+    background-color: rgb(62, 235, 62);
+    width: 20%;
+    margin: auto;
+}
+.question_class,.userAnswer, .correcrAnswer {
+     margin-top: 20px;
+     margin-bottom: 20px;
+} 
